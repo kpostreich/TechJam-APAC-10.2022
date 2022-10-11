@@ -26,7 +26,7 @@ Your Learning Event: [https://ec.yourlearning.ibm.com/w3/meeting/10301678](https
 
 **Presentations**
 
-[Download Presentations and replays](ttps://ibm.box.com/v/APAC-TechJam-Presentations)
+[Download Presentations and Replays](https://ibm.box.com/v/APAC-TechJam-Presentations)
 
 
 <!--
