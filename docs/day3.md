@@ -18,10 +18,8 @@ Time | Session
 
   **Lab Guide:**  [https://github.com/IBMTechSales/klp-think2022-labs/tree/master/1151-WebSphere_Automation-Security](https://github.com/IBMTechSales/klp-think2022-labs/tree/master/1151-WebSphere_Automation-Security) 
 
-  **Lab Environment:**  [](http://tbd)
+  **Lab Environment:**  PROVIDED BY INSTRUCTOR
   
-  > **VM Password:** techjam-apac
-
 
 
 
@@ -29,8 +27,8 @@ Time | Session
 
   **Lab Guide:**  [https://github.com/IBMTechSales/klp-think2022-labs/tree/master/1162-LibertyApplicationManagement](https://github.com/IBMTechSales/klp-think2022-labs/tree/master/1162-LibertyApplicationManagement)
   
-  **Lab Evironment:**  [](http://tbd)
+  **Lab Evironment:**  PROVIDED BY INSTRUCTOR
     
-  > **VM Password:** techjam-apac  
+  > **Note:** Uses same lab environment as lab 1161 from Day 2  
 
 

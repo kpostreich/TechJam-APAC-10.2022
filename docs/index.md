@@ -1,4 +1,4 @@
-# App Platform Strategy Workshop - APAC
+# App Platform TechJam - APAC
 
 ![](images/techjam.png)
 
@@ -12,7 +12,7 @@ Slack Channel for class communications: [https://ibm-cloud.slack.com/archives/C0
 
 Your Learning Event: [https://ec.yourlearning.ibm.com/w3/meeting/10301678](https://ec.yourlearning.ibm.com/w3/meeting/10301678)
 
-**Application Platform Technical Strategy Workshop Agenda**
+**Application Platform TechJam Agenda**
 
   - This is a 3 day technical workshop.  
   - Refer to the daily agenda pages from the left-navigation section.
@@ -26,7 +26,7 @@ Your Learning Event: [https://ec.yourlearning.ibm.com/w3/meeting/10301678](https
 
 **Presentations**
 
-[TBD](https://tbd)
+[Download Presentations and replays](ttps://ibm.box.com/v/APAC-TechJam-Presentations)
 
 
 <!--

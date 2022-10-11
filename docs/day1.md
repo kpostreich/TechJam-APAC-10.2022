@@ -15,24 +15,25 @@ Time | Session
 
 ## === Day 1 Labs ===
 
+<!--
+  **Reserve your own environment here:** [techzone lab environment](https://techzone.ibm.com/my/reservations/create/6127f5c66c03be001ef63c48)
+--> 
 
 ### LAB 1156: Getting Started with Liberty:
 
   **Lab Guide:** [https://github.com/IBMTechSales/klp-think2022-labs/tree/master/1156_Liberty-gettingStartedWithDevMode](https://github.com/IBMTechSales/klp-think2022-labs/tree/master/1156_Liberty-gettingStartedWithDevMode)
 
-  **Lab Environment:**  [](http://tbd)  
+  **Lab Environment:**  PROVIDED BY INSTRUCTOR  
   
-  > **VM Password:** techjam-apac
-
 
 
 ### LAB 1157: Using Liberty Dev Mode with Open Liberty Tools in Visual Studio Code
 
   **Lab Guide:** [https://github.com/IBMTechSales/klp-think2022-labs/tree/master/1157_Liberty-VSCode](https://github.com/IBMTechSales/klp-think2022-labs/tree/master/1157_Liberty-VSCode)
 
-  **Lab Environment:**  [](http:/tbd) 
+  **Lab Environment:** PROVIDED BY INSTRUCTOR
   
-  > **VM Password:** techjam-apac
+  > **Note:** Uses same lab environentn as lab 1156 above
 
 
 

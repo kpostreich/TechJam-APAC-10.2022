@@ -20,9 +20,9 @@ Time | Session
 
   **Lab Guide:** [https://github.com/IBMTechSales/klp-think2022-labs/tree/master/1153-Evaluate-App-TransformationAdvisor](https://github.com/IBMTechSales/klp-think2022-labs/tree/master/1153-Evaluate-App-TransformationAdvisor)
 
-  **Lab Evironment:**  [](http://tbd)
+  **Lab Evironment:**  PROVIDED BY INSTRUCTOR
     
-  > **VM Password:** techjam-apac
+  > **Note:** Uses same lab environment as labs 1156 and 1157 from Day 1. 
 
 
 
@@ -31,11 +31,9 @@ Time | Session
 
   **Lab Guide:** [https://github.com/IBMTechSales/klp-think2022-labs/tree/master/1153_B-TransformationAdvisor-CommonCodeDiscovery](https://github.com/IBMTechSales/klp-think2022-labs/tree/master/1153_B-TransformationAdvisor-CommonCodeDiscovery) 
 
-  **Lab Evironment:**  [](http://tbd)
+  **Lab Evironment:**  PROVIDED BY INSTRUCTOR
   
-  - Use same environment as lab 1153
-  
-  > **VM Password:** techjam-apac
+  > **Note:** Uses same lab environment as lab 1153 and ll56 & 1157 from day 1
 
 
 
@@ -43,9 +41,8 @@ Time | Session
 
   **Lab Guide:**  [https://github.com/IBMTechSales/klp-think2022-labs/tree/master/1161-RuntimeModernization](https://github.com/IBMTechSales/klp-think2022-labs/tree/master/1161-RuntimeModernization)
   
-  **Lab Evironment:**  [](http://tbd)
+  **Lab Evironment:**  PROVIDED BY INSTRUCTOR
     
-  > **VM Password:** techjam-apac
-  
+
 
 
